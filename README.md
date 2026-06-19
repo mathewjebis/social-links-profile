@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: \[Paste your GitHub repository link here\]
-- Live Site URL: \[Paste your GitHub Pages live link here\]
+- Solution URL: https://github.com/mathewjebis/social-links-profile
+- Live Site URL: https://mathewjebis.github.io/social-links-profile/
 
 ### My process
 
